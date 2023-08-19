@@ -1,0 +1,14 @@
+{
+  "name": "pa-storyline-generator",
+  "version": "1.0.0",
+  "description": "generates a really good pa storyline name",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DXL44",
+  "license": "ISC",
+  "dependencies": {
+    "undici": "^5.23.0"
+  }
+}
