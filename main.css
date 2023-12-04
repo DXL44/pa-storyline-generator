@@ -1,0 +1,4 @@
+.StorylineName > span 
+{
+    text-transform: capitalize;
+}
